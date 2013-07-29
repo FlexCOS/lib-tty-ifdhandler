@@ -1,3 +1,12 @@
+IFDHandler for a serial port connected board running FlexCOS. This is basicall a userspace driver for PCSC-Lite on Linux that enables software using the PCSC-Lite deamon to communicate with FlexCOS.
+
+For more information see the FlexCOS wiki at:
+
+https://github.com/FlexCOS/lib-tty-ifdhandler/wiki
+
+-------------------------------------------------------------------------
+This is based on:
+
 Name    : IFD Handler Develers Kit for MUSCLE PC/SC Lite
 Author  : David Corcoran
 Revision: August 1, 2000 (2.0)
