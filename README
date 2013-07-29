@@ -2,7 +2,7 @@ IFDHandler for a serial port connected board running FlexCOS. This is basicall a
 
 For more information see the FlexCOS wiki at:
 
-https://github.com/FlexCOS/lib-tty-ifdhandler/wiki
+https://github.com/FlexCOS/code/wiki
 
 -------------------------------------------------------------------------
 This is based on:
